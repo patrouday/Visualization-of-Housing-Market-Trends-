@@ -10,7 +10,7 @@ This project visualizes average housing prices, trends over time, and location-b
 👉 View the interactive dashboard on Tableau Public
 
 📁 Files Included
-housing_market.csv
+house1.csv
 streamlit_app.py (alternative version)
 Dashboard.twbx (Tableau file)
 🏠 Housing Market Trend Dashboard
@@ -41,6 +41,6 @@ Your Name
 🛠️ Built using: Tableau Public
 
 📌 How to Use
-Open housing_market.csv in Tableau
+Open house1.csv in Tableau
 Use the .twbx file for a ready-made dashboard
 Or explore the live version via the Tableau Public link
